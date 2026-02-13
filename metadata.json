@@ -1,0 +1,7 @@
+{
+  "name": "Chinese Life – Speak & Live",
+  "description": "A voice-controlled Chinese language survival RPG. Speak to survive, earn money, and build relationships in a simulated Chinese city.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
